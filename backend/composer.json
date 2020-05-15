@@ -1,7 +1,8 @@
 {
     "require": {
         "php": ">=7.0",
-        "silex/silex": "^2.0"
+        "silex/silex": "^2.0",
+        "symfony/finder": "5.0.8"
     },
     "autoload": {
         "psr-4": {
